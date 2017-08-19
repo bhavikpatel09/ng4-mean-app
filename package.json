@@ -1,0 +1,22 @@
+{
+  "name": "mean-app",
+  "version": "1.0.0",
+  "description": "demo-application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhavik",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "bootstrap": "^3.3.7",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "mongodb": "^2.2.31",
+    "mongojs": "^2.4.1",
+    "morgan": "^1.8.2",
+    "path": "^0.12.7"
+  }
+}
